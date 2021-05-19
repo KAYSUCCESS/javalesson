@@ -22,9 +22,3 @@ function convertFahrToCelsius(oF) {
 
 console.log(convertFahrToCelsius(true));
 
-
-// function checkYuGiOh(oF) {
-//     let checkYuGiOh = ((10 === 5, 2, 1), (20 === 5, 4, 2), (15 === 5, 3, 1));
-//     if (typeof oF === "number" || typeof oF === "string")
-//         return '$'
-// }
