@@ -12,7 +12,8 @@ function convertFahrToCelsius(oF) {
     if (oF instanceof Array) {
         return ('${JSON.stringify(oF)} is not a valid number but an array');
 
-    } else {
+    } 
+    else {
         return ('${JSON.stringify(oF)} is not a valid number but a/an ${typeof oF}');
 
     }
